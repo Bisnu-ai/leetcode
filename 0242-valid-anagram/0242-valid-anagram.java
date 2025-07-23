@@ -8,7 +8,7 @@ class Solution {
     for(char ch:t.toCharArray()){
         count[ch-'a']--;
     }
-   
+   //instead of for alse use lambda 
 for(int a:count){
     if(a!=0){ //if all element is zero in the count array then its anagram
         return false;
