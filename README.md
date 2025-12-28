@@ -6,9 +6,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Bisnu-ai/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Bisnu-ai/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Bisnu-ai/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Bisnu-ai/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Bisnu-ai/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
