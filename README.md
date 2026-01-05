@@ -33,12 +33,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bisnu-ai/leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Bisnu-ai/leetcode/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/Bisnu-ai/leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Bisnu-ai/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bisnu-ai/leetcode/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Bisnu-ai/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Bisnu-ai/leetcode/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Bisnu-ai/leetcode/tree/master/0389-find-the-difference) |
 ## Array
 |  |
@@ -49,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Bisnu-ai/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Bisnu-ai/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Bisnu-ai/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Bisnu-ai/leetcode/tree/master/0389-find-the-difference) |
@@ -66,4 +69,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bisnu-ai/leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Bisnu-ai/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Bisnu-ai/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
