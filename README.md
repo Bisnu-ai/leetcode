@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Bisnu-ai/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Bisnu-ai/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Bisnu-ai/leetcode/tree/master/0367-valid-perfect-square) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/Bisnu-ai/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Bisnu-ai/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Bisnu-ai/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Bisnu-ai/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Bisnu-ai/leetcode/tree/master/0496-next-greater-element-i) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/Bisnu-ai/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bisnu-ai/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Bisnu-ai/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
@@ -116,4 +118,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bisnu-ai/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/Bisnu-ai/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 <!---LeetCode Topics End-->
