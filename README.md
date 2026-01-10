@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Bisnu-ai/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Bisnu-ai/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Bisnu-ai/leetcode/tree/master/0367-valid-perfect-square) |
+| [1486-xor-operation-in-an-array](https://github.com/Bisnu-ai/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Bisnu-ai/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Bisnu-ai/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Bisnu-ai/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Bisnu-ai/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Bisnu-ai/leetcode/tree/master/0389-find-the-difference) |
+| [1486-xor-operation-in-an-array](https://github.com/Bisnu-ai/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
