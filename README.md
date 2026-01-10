@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Bisnu-ai/leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Bisnu-ai/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Bisnu-ai/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Bisnu-ai/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Bisnu-ai/leetcode/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Bisnu-ai/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Bisnu-ai/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Bisnu-ai/leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
