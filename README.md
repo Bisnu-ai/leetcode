@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Bisnu-ai/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Bisnu-ai/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bisnu-ai/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Bisnu-ai/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bisnu-ai/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Bisnu-ai/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bisnu-ai/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Bisnu-ai/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Bisnu-ai/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Bisnu-ai/leetcode/tree/master/0496-next-greater-element-i) |
+| [0977-squares-of-a-sorted-array](https://github.com/Bisnu-ai/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bisnu-ai/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Bisnu-ai/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bisnu-ai/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Bisnu-ai/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Bisnu-ai/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Bisnu-ai/leetcode/tree/master/0389-find-the-difference) |
+| [0977-squares-of-a-sorted-array](https://github.com/Bisnu-ai/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bisnu-ai/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bisnu-ai/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
