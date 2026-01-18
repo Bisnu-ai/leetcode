@@ -1,22 +1,20 @@
 class Solution {
 
     public static boolean check(String s, int i, int j) {
-        boolean flag=true;
         while (i < j) {
             if (s.charAt(i) != s.charAt(j)) {
-                flag=false;
-               
+               return false;
             }
              i++;
-            j--;
+             j--;
         }
-            return flag;
+            return true;
     }
 
     public boolean validPalindrome(String s) {
         int i = 0;
         int j = s.length() - 1;
-        while (i <= j) {
+        while (i < j) {
             if (s.charAt(i) != s.charAt(j)) {
 
         return check(s,i+1,j) || check(s,i,j-1);
