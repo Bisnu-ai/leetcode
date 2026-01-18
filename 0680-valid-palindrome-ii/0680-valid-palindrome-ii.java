@@ -2,7 +2,7 @@ class Solution {
 
     public static boolean check(String s, int i, int j) {
         boolean flag=true;
-        while (i <= j) {
+        while (i < j) {
             if (s.charAt(i) != s.charAt(j)) {
                 flag=false;
                
