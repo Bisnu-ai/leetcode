@@ -148,4 +148,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Bisnu-ai/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bisnu-ai/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/Bisnu-ai/leetcode/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
