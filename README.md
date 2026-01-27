@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Bisnu-ai/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Bisnu-ai/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Bisnu-ai/leetcode/tree/master/0367-valid-perfect-square) |
+| [1103-distribute-candies-to-people](https://github.com/Bisnu-ai/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1486-xor-operation-in-an-array](https://github.com/Bisnu-ai/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Bisnu-ai/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Bisnu-ai/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Bisnu-ai/leetcode/tree/master/0067-add-binary) |
+| [1103-distribute-candies-to-people](https://github.com/Bisnu-ai/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bisnu-ai/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2293-min-max-game](https://github.com/Bisnu-ai/leetcode/tree/master/2293-min-max-game) |
 ## Stack
