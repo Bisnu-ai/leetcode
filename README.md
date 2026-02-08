@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Bisnu-ai/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bisnu-ai/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bisnu-ai/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bisnu-ai/leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Bisnu-ai/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Bisnu-ai/leetcode/tree/master/0169-majority-element) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bisnu-ai/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bisnu-ai/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Bisnu-ai/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Bisnu-ai/leetcode/tree/master/0268-missing-number) |
