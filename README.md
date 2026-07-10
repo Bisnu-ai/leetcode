@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1486-xor-operation-in-an-array](https://github.com/Bisnu-ai/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Bisnu-ai/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bisnu-ai/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/Bisnu-ai/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Bisnu-ai/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 | Problem Name | Difficulty |
@@ -175,4 +176,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bisnu-ai/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/Bisnu-ai/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 <!---LeetCode Topics End-->
