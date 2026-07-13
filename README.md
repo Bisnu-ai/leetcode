@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1952-three-divisors](https://github.com/Bisnu-ai/leetcode/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bisnu-ai/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Bisnu-ai/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2469-convert-the-temperature](https://github.com/Bisnu-ai/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Bisnu-ai/leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Bisnu-ai/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
