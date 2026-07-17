@@ -4,19 +4,20 @@ class Solution {
         int r = word2.length();
         int i = 0;
         int j = 0;
-        String result = "";
+       StringBuilder result = new StringBuilder();
 
         while (i < l || j < r) {
             
                 if (i < l) {
 
-                    result += word1.charAt(i);
+                    result.append(word1.charAt(i));
                     
                 }
             
                 if (j < r) {
 
-                    result += word2.charAt(j);
+                    result.append(word2.charAt(j));
+                    
                   
                 }
 
@@ -25,6 +26,6 @@ class Solution {
             j++;
 
         }
-        return result;
+        return result.toString();
     }
 }
