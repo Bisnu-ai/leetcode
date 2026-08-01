@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/Bisnu-ai/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Bisnu-ai/leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Bisnu-ai/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Bisnu-ai/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Bisnu-ai/leetcode/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/Bisnu-ai/leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bisnu-ai/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Bisnu-ai/leetcode/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
