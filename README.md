@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/Bisnu-ai/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Bisnu-ai/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Bisnu-ai/leetcode/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/Bisnu-ai/leetcode/tree/master/0461-hamming-distance) |
 | [1486-xor-operation-in-an-array](https://github.com/Bisnu-ai/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
